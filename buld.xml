@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<proect name="Hellow world Project" defaulf="info">
+<target name ="info">
+<echo> Hello World - welcome to simplilearn</echo>
+</target>
+</project>
+
